@@ -19,7 +19,7 @@ six==1.14.0
 sqlparse==0.3.1
 
   
-Step 4: Apply the migration if any
+Step 4: Apply the migration
     $ python manage.py migrate
     
 
